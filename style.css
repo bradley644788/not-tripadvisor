@@ -90,7 +90,7 @@ header {
         max-height: 40px;
     }
 
-    & a {
+    & a:not(:hover) {
         text-decoration: none;
     }
 }
